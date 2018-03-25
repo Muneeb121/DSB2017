@@ -1,4 +1,4 @@
-config = {'datapath':'/work/DataBowl3/stage2/stage2/',
+config = {'datapath':'./stage2/',
           'preprocess_result_path':'./prep_result/',
           'outputfile':'prediction.csv',
           
